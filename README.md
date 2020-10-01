@@ -45,3 +45,5 @@ Run this from cron every 15 minutes, and you’ll always have your last checked-
 
 And a .json (and .xml) file that matches what SPOT has for you - overwritten on each run, unless -k is used.
 
+## Thank you for coming
+
